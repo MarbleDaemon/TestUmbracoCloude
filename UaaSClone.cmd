@@ -1,0 +1,1 @@
+git clone https://dev-cloud-hai-huynh-agency-spring-vn.scm.s1.umbraco.io/c8d7e566-f79a-4720-b517-7c3335f8ab03.git CloudTraining.Web
